@@ -8,7 +8,7 @@ class Counter extends Component
 {
     public $name = 'Agtian Ricky';
     public $load = false;
-    public $greeting = 'Hello';
+    public $greeting = 'Hai';
     public $hobby = [false];
 
     public function render()

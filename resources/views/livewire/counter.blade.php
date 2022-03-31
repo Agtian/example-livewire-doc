@@ -8,9 +8,11 @@
         </div>
         <div class="col-lg-3">
             <select class="form-control" wire:model="greeting">
+                <option>Hai</option>
                 <option>Hello</option>
                 <option>Goodbye</option>
                 <option>Good luck</option>
+                <option>Welcome</option>
             </select>
         </div>
         <div class="col-lg-3">
